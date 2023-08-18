@@ -1381,7 +1381,7 @@ p {
 
 #progressbar li.active:before,
 #progressbar li.active:after {
-  background: #961e70;
+ background: #4b9fc1;
 }
 
 .progress {
